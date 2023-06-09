@@ -7,11 +7,11 @@ const Banner = () => {
       <div className="hero bg-[#fff2da]">
         <div className="hero-content text-center">
           <div className="">
-            <h1 className="text-3xl font-bold my-10">
+            <h1 className="text-3xl font-bold my-10 tracking-wider">
               We belived in making your dreams <br /> and goals a reality
             </h1>
 
-            <button className="btn bg-[#fe8e5e] text-white px-10">
+            <button className="btn bg-[#fe8e5e] hover:bg-orange-400 text-white px-10">
               Get Started
             </button>
           </div>
